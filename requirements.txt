@@ -1,2 +1,10 @@
-aiogram>=3.30.0
+# Free Proxy Bot v3.0 - Dependencies
+# Async Telegram bot for proxy services
+
+# Core dependencies
 aiohttp>=3.14.0
+aiogram>=3.30.0
+
+# Optional (for better performance)
+# aiohttp-sse>=2.0.0
+# uvloop>=0.19.0
